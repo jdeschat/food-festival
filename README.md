@@ -62,7 +62,6 @@ Made with [contributors-img](https://contrib.rocks).
 •	Webpack
 •	Webpack pwa manifest
 •	Popper
-•	Javascript
 
 ## Questions
 My Github username is jdeschat, which can be accessed here https://github.com/jdeschat/food-festival.
